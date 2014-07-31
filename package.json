@@ -1,0 +1,12 @@
+{
+  "name": "ws-binary-stream",
+  "version": "0.1.0",
+  "description": "A simple Node duplex stream wrapper around a 'ws' websocket in binary mode.",
+  "main": "index.js",
+  "repository": {
+  	"type": "git",
+  	"repository": "git+ssh://git@github.com:StewartAtkins/node-ws-binary-stream.git"
+  },
+  "author": "Stewart Atkins",
+  "license": "BSD"
+}
